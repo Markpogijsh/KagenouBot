@@ -1,9 +1,9 @@
 {
-  "admins": [],
-  "moderators": [],
-  "developers": [],
+  "admins": [61579032975023],
+  "moderators": [61579032975023],
+  "developers": [61579032975023],
   "Prefix": [
-    "/"
+    "."
   ],
   "botName": "KagenouBotV4",
   "mongoUri": ""
